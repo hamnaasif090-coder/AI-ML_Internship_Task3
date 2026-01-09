@@ -5,7 +5,7 @@ Build a machine learning model to predict the presence of heart disease based on
 
 ## Dataset
 - **Heart Disease UCI Dataset**
-- **Source:** [Kaggle](https://www.kaggle.com/datasets/ronitf/heart-disease-uci)
+- **Source:** [Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?resource=download)
 - Includes clinical features such as:
   - Age
   - Cholesterol
